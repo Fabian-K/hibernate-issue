@@ -14,7 +14,7 @@
 
         <!--        <version.org.hibernate>5.3.15.Final</version.org.hibernate> &lt;!&ndash; working &ndash;&gt;-->
         <!--        <version.org.hibernate>5.4.0.Final</version.org.hibernate> &lt;!&ndash; failing &ndash;&gt;-->
-        <version.org.hibernate>5.4.12.Final</version.org.hibernate>  <!-- failing -->
+        <version.org.hibernate>5.4.24.Final</version.org.hibernate>  <!-- failing -->
 
         <version.org.slf4j>1.7.25</version.org.slf4j>
     </properties>
